@@ -1,6 +1,7 @@
 # planetary-crs
 
-## example of SECORE GML CRS definition
+
+example of SECORE GML CRS definition
 
 ```
 <gml:ProjectedCRS xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.opengis.net/gml/3.2" gml:id="ogrcrs1">
