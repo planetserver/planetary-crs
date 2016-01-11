@@ -1,7 +1,17 @@
 # planetary-crs
 
+## Secore 
 
-example of SECORE GML CRS definition
+installation info on: http://rasdaman.org/wiki/SecoreDevGuide#Installation
+
+```
+# TBA
+```
+User guide: http://rasdaman.org/wiki/SecoreUserGuide
+
+## OGC CRS resolver (based on SECORE): http://www.opengis.net/def/crs
+
+example of SECORE GML CRS definition: 
 
 ```
 <gml:ProjectedCRS xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.opengis.net/gml/3.2" gml:id="ogrcrs1">
