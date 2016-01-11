@@ -4,10 +4,14 @@
 
 installation info on: http://rasdaman.org/wiki/SecoreDevGuide#Installation
 
+In order to install SECORE, the easiest way is to:
 ```
-# TBA
+git clone git://rasdaman.org/rasdaman.git
+cd $RASDAMAN/applications/secore
+./deploy /path/to/tomcat/webapps
 ```
-User guide: http://rasdaman.org/wiki/SecoreUserGuide
+
+and follow instructions on User guide: http://rasdaman.org/wiki/SecoreUserGuide
 
 OGC CRS resolver (based on SECORE): http://www.opengis.net/def/crs
 
