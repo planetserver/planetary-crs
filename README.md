@@ -9,7 +9,7 @@ installation info on: http://rasdaman.org/wiki/SecoreDevGuide#Installation
 ```
 User guide: http://rasdaman.org/wiki/SecoreUserGuide
 
-## OGC CRS resolver (based on SECORE): http://www.opengis.net/def/crs
+OGC CRS resolver (based on SECORE): http://www.opengis.net/def/crs
 
 example of SECORE GML CRS definition: 
 
