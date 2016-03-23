@@ -1,5 +1,8 @@
 # planetary-crs
 
+## Useful existing material
+
+
 ## Secore 
 
 installation info on: http://rasdaman.org/wiki/SecoreDevGuide#Installation
