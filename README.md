@@ -4,7 +4,7 @@
 
 * https://svn.osgeo.org/metacrs/sr.org/srsbrowser/data/IAU2000.wkt (courtesy [@kidpixo](https://github.com/kidpixo))
 * https://trac.osgeo.org/metacrs/
-* 
+
 ## Secore 
 
 installation info on: http://rasdaman.org/wiki/SecoreDevGuide#Installation
