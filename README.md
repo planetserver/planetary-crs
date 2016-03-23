@@ -2,6 +2,7 @@
 
 ## Useful existing material
 
+https://svn.osgeo.org/metacrs/sr.org/srsbrowser/data/IAU2000.wkt (courtesy @kidpixo
 
 ## Secore 
 
