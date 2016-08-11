@@ -1,3 +1,7 @@
+IAU CRS for use in [OGC Secore-based resolver](http://external.opengeospatial.org/twiki_public/CRSdefinitionResolver/WebHome)
+
+see also [http://spatialreference.org/ref/iau2000/](http://spatialreference.org/ref/iau2000/)
+
 ## Mercury
 
 ## Venus
