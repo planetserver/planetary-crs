@@ -3,7 +3,7 @@
 to be linked with GML version of each CRS
 
 ### Global CRS
-* naming / IAU2000 (geographic)
+* naming / IAU2000 (geographic), both CLON=0, and CLON=180
   * Mars IAU2000 (a=3396190 b=3376200)
   * Moon IAU200 (a=b=1737400)
   * Mercury ..
