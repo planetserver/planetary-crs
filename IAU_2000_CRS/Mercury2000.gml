@@ -1,4 +1,5 @@
 <gml:GeographicCRS gml:id="ogrcrs513">
+<gml:identifier codeSpace="http://www.ietf.org/rfc/rfc3986">urn:ogc:def:crs:IAU::Mercury2000</gml:identifier>
   <gml:srsName>Mercury 2000</gml:srsName>
   <gml:usesEllipsoidalCS>
     <gml:EllipsoidalCS gml:id="ogrcrs514">
@@ -6,7 +7,7 @@
       <gml:csID>
         <gml:name gml:codeSpace="urn:ogc:def:cs:EPSG::">6402</gml:name>
       </gml:csID>
-      <gml:usesAxis>
+      <gml:axis>
         <gml:CoordinateSystemAxis gml:id="ogrcrs515" gml:uom="urn:ogc:def:uom:EPSG::9102">
           <gml:name>Geodetic latitude</gml:name>
           <gml:axisID>
@@ -15,8 +16,8 @@
           <gml:axisAbbrev>Lat</gml:axisAbbrev>
           <gml:axisDirection>north</gml:axisDirection>
         </gml:CoordinateSystemAxis>
-      </gml:usesAxis>
-      <gml:usesAxis>
+      </gml:axis>
+      <gml:axis>
         <gml:CoordinateSystemAxis gml:id="ogrcrs516" gml:uom="urn:ogc:def:uom:EPSG::9102">
           <gml:name>Geodetic longitude</gml:name>
           <gml:axisID>
@@ -25,7 +26,7 @@
           <gml:axisAbbrev>Lon</gml:axisAbbrev>
           <gml:axisDirection>east</gml:axisDirection>
         </gml:CoordinateSystemAxis>
-      </gml:usesAxis>
+      </gml:axis>
     </gml:EllipsoidalCS>
   </gml:usesEllipsoidalCS>
   <gml:usesGeodeticDatum>

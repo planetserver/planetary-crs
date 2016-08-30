@@ -4,7 +4,11 @@ see also [http://spatialreference.org/ref/iau2000/](http://spatialreference.org/
 
 ## Mercury
 
+[Link to GML version for SECORE](http://access.planetserver.eu:8080/def/crs/IAU/0/Mercury2000/)
+
 ## Venus
+
+[Link to GML version for SECORE](http://access.planetserver.eu:8080/def/crs/IAU/0/Venus2000/)
 
 ## Earth
 
@@ -14,11 +18,13 @@ see also [http://spatialreference.org/ref/iau2000/](http://spatialreference.org/
 proj4 version TBA
 ```
 
-[link to GML version for Secore](link tba)
+[Link to GML version for SECORE](http://access.planetserver.eu:8080/def/crs/IAU/0/Moon2000/)
 
 ## Mars
 
-## Asteroids 
+[Link to GML version for SECORE](http://access.planetserver.eu:8080/def/crs/IAU/0/Mars2000/)
+
+## Asteroids
 
 ## Jupyter System
 
