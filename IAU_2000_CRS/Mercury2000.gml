@@ -1,51 +1,53 @@
-<gml:GeographicCRS xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.opengis.net/gml/3.2" gml:id="ogrcrs513">
-<gml:identifier codeSpace="http://www.ietf.org/rfc/rfc3986">urn:ogc:def:crs:IAU::Mercury2000</gml:identifier>
-  <gml:srsName>Mercury 2000</gml:srsName>
-  <gml:usesEllipsoidalCS>
-    <gml:EllipsoidalCS gml:id="ogrcrs514">
-      <gml:csName>ellipsoidal</gml:csName>
-      <gml:csID>
-        <gml:name gml:codeSpace="urn:ogc:def:cs:EPSG::">6402</gml:name>
-      </gml:csID>
+<gml:GeographicCRS xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:epsg="urn:x-ogp:spec:schema-xsd:EPSG:1.0:dataset" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:rim="urn:oasis:names:tc:ebxml-regrep:xsd:rim:3.0" gml:id="epsg-crs-4326" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd">
+  <gml:identifier codeSpace="http://www.ietf.org/rfc/rfc3986">http://www.opengis.net/def/crs/IAU/0/Mercury2000</gml:identifier>
+  <gml:name>Mercury 2000</gml:name>
+  <gml:domainOfValidity></gml:domainOfValidity>
+  <gml:scope></gml:scope>
+<gml:usesEllipsoidalCS>
+  <gml:EllipsoidalCS gml:id="ogrcrs514">
+      <gml:metaDataProperty></gml:metaDataProperty>
+      <gml:identifier codeSpace="urn:ogc:def:axis:EPSG::">9902</gml:identifier>
       <gml:axis>
-        <gml:CoordinateSystemAxis gml:id="ogrcrs515" gml:uom="urn:ogc:def:uom:EPSG::9102">
-          <gml:name>Geodetic latitude</gml:name>
-          <gml:axisID>
-            <gml:name gml:codeSpace="urn:ogc:def:axis:EPSG::">9901</gml:name>
-          </gml:axisID>
-          <gml:axisAbbrev>Lat</gml:axisAbbrev>
-          <gml:axisDirection>north</gml:axisDirection>
+        <gml:CoordinateSystemAxis gml:id="ogrcrs515" uom="urn:ogc:def:axis:EPSG::9102">
+        <gml:identifier codeSpace="OGP">http://www.opengis.net/def/axis/EPSG/0/107</gml:identifier>
+        <gml:axisAbbrev>Lat</gml:axisAbbrev>
+        <gml:axisDirection codeSpace="IAU">north</gml:axisDirection>
         </gml:CoordinateSystemAxis>
       </gml:axis>
       <gml:axis>
-        <gml:CoordinateSystemAxis gml:id="ogrcrs516" gml:uom="urn:ogc:def:uom:EPSG::9102">
-          <gml:name>Geodetic longitude</gml:name>
-          <gml:axisID>
-            <gml:name gml:codeSpace="urn:ogc:def:axis:EPSG::">9902</gml:name>
-          </gml:axisID>
+        <gml:CoordinateSystemAxis gml:id="ogrcrs516" uom="urn:ogc:def:axis:EPSG::9102">
+          <gml:identifier codeSpace="urn:ogc:def:axis:EPSG::">9902</gml:identifier>
           <gml:axisAbbrev>Lon</gml:axisAbbrev>
-          <gml:axisDirection>east</gml:axisDirection>
+          <gml:axisDirection codeSpace="IAU">east</gml:axisDirection>
         </gml:CoordinateSystemAxis>
       </gml:axis>
-    </gml:EllipsoidalCS>
-  </gml:usesEllipsoidalCS>
-  <gml:usesGeodeticDatum>
+  </gml:EllipsoidalCS>
+</gml:usesEllipsoidalCS>
+ <gml:usesGeodeticDatum>
     <gml:GeodeticDatum gml:id="ogrcrs517">
-      <gml:datumName>D_Mercury_2000</gml:datumName>
+      <gml:metaDataProperty></gml:metaDataProperty>
+      <gml:identifier codeSpace="urn:ogc:def:axis:EPSG::">9902</gml:identifier>
+      <gml:name>D_Mercury_2000</gml:name>
+      <gml:domainOfValidity></gml:domainOfValidity>
+      <gml:scope></gml:scope>
       <gml:usesPrimeMeridian>
         <gml:PrimeMeridian gml:id="ogrcrs518">
-          <gml:meridianName>Greenwich</gml:meridianName>
-          <gml:greenwichLongitude>
-            <gml:angle gml:uom="urn:ogc:def:uom:EPSG::9102">0</gml:angle>
-          </gml:greenwichLongitude>
+          <gml:metaDataProperty></gml:metaDataProperty>
+          <gml:identifier codeSpace="OGP">http://www.opengis.net/def/meridian/EPSG/0/8901</gml:identifier>
+          <gml:name>Greenwich</gml:name>
+          <gml:greenwichLongitude uom="http://www.opengis.net/def/uom/EPSG/0/9102">0</gml:greenwichLongitude>
         </gml:PrimeMeridian>
       </gml:usesPrimeMeridian>
       <gml:usesEllipsoid>
         <gml:Ellipsoid gml:id="ogrcrs519">
-          <gml:ellipsoidName>Mercury_2000_IAU_IAG</gml:ellipsoidName>
-          <gml:semiMajorAxis gml:uom="urn:ogc:def:uom:EPSG::9001">2439700.0</gml:semiMajorAxis>
+          <gml:metaDataProperty></gml:metaDataProperty>
+          <gml:identifier codeSpace="OGP">http://www.opengis.net/def/meridian/EPSG/0/8901</gml:identifier>
+          <gml:name>Mercury_2000_IAU_IAG</gml:name>
+          <gml:semiMajorAxis uom="http://www.opengis.net/def/uom/EPSG/0/9001">2439700.0</gml:semiMajorAxis>
           <gml:secondDefiningParameter>
-            <gml:inverseFlattening gml:uom="urn:ogc:def:uom:EPSG::9201">0.0</gml:inverseFlattening>
+            <gml:SecondDefiningParameter>
+             <gml:inverseFlattening uom="http://www.opengis.net/def/uom/EPSG/0/9201">0.0</gml:inverseFlattening>
+            </gml:SecondDefiningParameter>
           </gml:secondDefiningParameter>
         </gml:Ellipsoid>
       </gml:usesEllipsoid>
