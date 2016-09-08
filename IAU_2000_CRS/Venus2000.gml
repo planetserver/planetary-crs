@@ -1,4 +1,4 @@
-<gml:GeographicCRS gml:id="ogrcrs470">
+<gml:GeographicCRS xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.opengis.net/gml/3.2" gml:id="ogrcrs470">
 <gml:identifier codeSpace="http://www.ietf.org/rfc/rfc3986">urn:ogc:def:crs:IAU::Venus2000</gml:identifier>
   <gml:srsName>Venus 2000</gml:srsName>
   <gml:usesEllipsoidalCS>

@@ -1,4 +1,4 @@
-<gml:GeographicCRS gml:id="ogrcrs513">
+<gml:GeographicCRS xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.opengis.net/gml/3.2" gml:id="ogrcrs513">
 <gml:identifier codeSpace="http://www.ietf.org/rfc/rfc3986">urn:ogc:def:crs:IAU::Mercury2000</gml:identifier>
   <gml:srsName>Mercury 2000</gml:srsName>
   <gml:usesEllipsoidalCS>
