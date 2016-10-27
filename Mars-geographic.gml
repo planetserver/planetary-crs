@@ -1,5 +1,5 @@
 <gml:GeographicCRS gml:id="ogrcrs1">
-<gml:identifier codeSpace="http://www.ietf.org/rfc/rfc3986">http://www.opengis.net/def/crs/IAU/0/Mars-geographic</gml:identifier>
+<gml:identifier codeSpace="http://www.ietf.org/rfc/rfc3986">http://www.opengis.net/def/crs/PS/0/Mars-geographic</gml:identifier>
   <gml:srsName>unnamed ellipse</gml:srsName>
   <gml:usesEllipsoidalCS>
     <gml:EllipsoidalCS gml:id="ogrcrs2">
