@@ -1,5 +1,5 @@
 <gml:ProjectedCRS gml:id="ogrcrs97">
-<gml:identifier codeSpace="http://www.ietf.org/rfc/rfc3986">urn:ogc:def:crs:PS::Mars-stereographic-north</gml:identifier>
+<gml:identifier codeSpace="http://www.ietf.org/rfc/rfc3986">http://www.opengis.net/def/crs/IAU/0/Mars-stereographic-north</gml:identifier>
   <gml:srsName>Mars_North_Pole_Stereographic</gml:srsName>
   <gml:baseCRS>
     <gml:GeographicCRS gml:id="ogrcrs98">
