@@ -1,5 +1,5 @@
 <gml:ProjectedCRS gml:id="ogrcrs1">
-<gml:identifier codeSpace="http://www.ietf.org/rfc/rfc3986">urn:ogc:def:crs:PS::Moon-gnomonic-north</gml:identifier>
+<gml:identifier codeSpace="http://www.ietf.org/rfc/rfc3986">http://www.opengis.net/def/crs/IAU/0/Moon-gnomonic-north</gml:identifier>
   <gml:srsName>Moon_North_Pole_Gnomonic</gml:srsName>
   <gml:baseCRS>
     <gml:GeographicCRS gml:id="ogrcrs2">
