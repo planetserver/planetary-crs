@@ -1,5 +1,5 @@
 <gml:GeographicCRS xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:epsg="urn:x-ogp:spec:schema-xsd:EPSG:1.0:dataset" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:rim="urn:oasis:names:tc:ebxml-regrep:xsd:rim:3.0" gml:id="epsg-crs-4326" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd">
-  <gml:identifier codeSpace="http://www.ietf.org/rfc/rfc3986">urn:ogc:def:crs:IAU::Mars2000</gml:identifier>
+  <gml:identifier codeSpace="http://www.ietf.org/rfc/rfc3986">http://www.opengis.net/def/crs/IAU/0/Mars2000</gml:identifier>
   <gml:name>Mars 2000</gml:name>
   <gml:domainOfValidity></gml:domainOfValidity>
   <gml:scope></gml:scope>
