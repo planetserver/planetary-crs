@@ -48,7 +48,7 @@
               <gml:ellipsoidName>Mars_2000_IAU_IAG</gml:ellipsoidName>
               <gml:semiMajorAxis gml:uom="urn:ogc:def:uom:EPSG::9001">3396190.0</gml:semiMajorAxis>
               <gml:secondDefiningParameter>
-                <gml:inverseFlattening gml:uom="urn:ogc:def:uom:EPSG::9201">169.89444722361179</gml:inverseFlattening>
+                <gml:inverseFlattening gml:uom="urn:ogc:def:uom:EPSG::9201">0.0</gml:inverseFlattening>
               </gml:secondDefiningParameter>
             </gml:Ellipsoid>
           </gml:usesEllipsoid>
